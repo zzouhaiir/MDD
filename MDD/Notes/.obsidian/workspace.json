@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "396de3fef8b89730",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4237387f9ea2481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe980c08af6a355c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ModelisationDeDonnées.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d2d97bf7843464f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercice 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3778319822040446",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c4115a08ee928d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bcfa62d1ebde8a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a76e8e0c1c288e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef4961231b523a5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb8a86a805cba0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "131f96c75eb2f50e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7902751d0bf28b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ModelisationDeDonnées.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67d46a0711d80f34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ModelisationDeDonnées.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d821500b33b28a7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b59390ccf930e939",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ModelisationDeDonnées.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe980c08af6a355c",
+  "lastOpenFiles": [
+    "Exercice 4.md",
+    "ModelisationDeDonnées.md",
+    "Exercice4-MCD.png",
+    "Exercice4-MCD.png.crswap",
+    "Exercice3-MLD.png.crswap",
+    "Exercice 3.md",
+    "Exercice3-DD.png",
+    "Exercice3-MLD.png",
+    "Exercice3-MCD.png",
+    "Exercice 2.md",
+    "Exercice2-MCD.png",
+    "Exercice2-MLD.png",
+    "Exercice 1.md",
+    "Exercice1-MCD.png",
+    "Exercice1-MLD.png",
+    "image.png.md",
+    "image-27.png",
+    "Diagram MLD.png",
+    "Untitled.md",
+    "Untitled"
+  ]
+}
