@@ -122,7 +122,7 @@ Le systeme d'information :
 
 Le systeme operant :
 
-- Il est composé de l'esemble sdes acteurs qui vont **produire** les données du systeme d'information
+- Il est composé de l'essembles des acteurs qui vont **produire** les données du système d'information
 
   
   
@@ -500,30 +500,25 @@ Les attributs non-clé primaire ne dépendent pas d'un attribut non clé primair
 
 `Commande (NumCommande, #CodeClient, #RefArticle)`
 
+![[image-33.png]]
+![[image-34.png]]
 ### Les diagrammes des flux
 
+Les diagrammes des flux permettent de modéliser les flux d'informations entre les acteurs du système d'information et les acteurs du système opérant.
 
-# A faire 
 
-## Setup GitHub
+Quelques définitions :
 
-- Créer une clef SSH
-- Ajouter la clef publique à mon dépôt (github.com/settings/ssh/new) Title = Nom de la machine
-	- Ajouter un accès à distance (git remote add 'alias' 'adress_given_by_git')
-- Vérifier les alias :
-```sh
-git remote -v
-```
-- Pour update le dépôt :
-```sh
-git push
-```
+- Domaine d'étude : le périmètre d'une activité au sein d'une entreprise, d'une activité spécifique.
+- L'acteur : une personne, un service, une entreprise, un système informatique qui intervient dans le domaine d'étude au moyen d'un flux d'information.
+- Les flux : les informations qui circulent entre les acteurs, représenté par un flèche et porte un nom et peut-être numéroté (par soucis de chronologie).
 
-<b>ATTENTION</b>
 
-La branche main n'est pas définie sur GitHub (aucune ressource git n'est préparé sur le dépôt git distance) donc pas d'upstream
+Représentation graphique :
 
-Il faut faire : 
-```sh
-git push -u origin main
-```
+![[image-35.png]]
+
+Quelques règles à respecter :
+- Un flux ne peut pas être bidirectionnel
+- Un flux ne doit pas être réflexif
+- On ne représente pas les flux entre les acteurs externes
