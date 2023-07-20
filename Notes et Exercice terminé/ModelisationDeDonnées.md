@@ -455,6 +455,35 @@ CREATE TABLE VITICULTEUR
 ```
 
 
+## Les formes normales (FN)
+
+Ensemble de règles qui a pour but d'éviter les anomalies au sein des BDDR. 
+Pour appliquer les concepts des formes normales il est nécessaire de connaitre les trois premières formes normales.
+
+### Forme normale 1 (1FN)
+
+Une relation est en première forme normale si :
+
+- Tous les attributs sont atomiques
+- Les attributs ne contiennent pas de valeurs répétitives
+
+**Exemples :**
+
+Clients (NumCli, Nom, Prénom, Adresse, Téléphone)
+
+![[image-29.png]]
+![[image-30.png]]
+### Forme normale 2 (2FN)
+
+Une relation est en deuxième forme normale si : 
+
+- Elle est en 1FN
+- Si tous les attributs qui ne sont pas des clés ne dépendent pas d'une partie de la clé primaire
+
+**Exemple :**
+
+Commande (NumClient, CodeArticle, Date, QteCommande, Designation)
+
 
 
 # A faire 
