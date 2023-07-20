@@ -484,6 +484,23 @@ Une relation est en deuxième forme normale si :
 
 Commande (NumClient, CodeArticle, Date, QteCommande, Designation)
 
+![[image-31.png]]
+
+![[image-32.png]]
+
+### Forme normale 3 (3FN)
+
+Une relation est en troisème forme normale si : 
+
+- Elle est en dexième forme normale
+- Si toutes les dépendances fonctionnelles sont directes
+Les attributs non-clé primaire ne dépendent pas d'un attribut non clé primaire.
+
+** Exemple : **
+
+`Commande (NumCommande, #CodeClient, #RefArticle)`
+
+### Les diagrammes des flux
 
 
 # A faire 
