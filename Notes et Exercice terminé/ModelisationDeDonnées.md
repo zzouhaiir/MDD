@@ -558,3 +558,13 @@ UML propose 13 diagrammes dépendants de façon hierarchique et se complétant .
 1. Cas du MCD et du diagramme des classes
 
 Le MCD et le diagramme de classes partagent beaucoup de points communs. Les différences majeures apparaissent dans le côté objet d’UML. Cependant, au niveau du processus d’analyse, le diagramme de classes se rapproche plus du modèle logique des données. Le langage UML pour représenter une base de données ne passe pas d’un état correspondant à un MCD à un MLD. Il faut donc à l’analyste une bonne approche ou vision de la base de données pour la représenter sans faille en langage UML. Le découpage MCD, MLD apporte plus de sécurité, à ce niveau-là, qu’UML.
+
+
+![Alt text](image-36.png)
+
+![Alt text](image-37.png)
+
+Representation d'une relation
+
+![Alt text](image-38.png)
+
