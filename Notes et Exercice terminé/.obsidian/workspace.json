@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercice 6.md",
+                "file": "ModelisationDeDonnées.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercice 6.md",
+                "file": "ModelisationDeDonnées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exercice 6.md",
+                "file": "ModelisationDeDonnées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercice 6.md"
+                "file": "ModelisationDeDonnées.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b9f438362cb9d63f",
   "lastOpenFiles": [
-    "Diagramme-des-avis-des-médecins-Niveau-1.png",
     "Exercice 6.md",
+    "Diagramme-des-avis-des-médecins-Niveau-1.png",
     "ModelisationDeDonnées.md",
     "Exercice6-MLD.png",
     "Exercice6-MCD.png",
@@ -160,7 +160,6 @@
     "image-31.png",
     "image-30.png",
     "image-29.png",
-    "image-34.png",
     "image-33.png.md",
     "Exercice 4.md",
     "Exercice4-MCD.png.crswap",
