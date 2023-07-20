@@ -131,20 +131,23 @@ Le systeme operant :
 
   
 
-La séparation des données et des traitements permet de séparer les données du systeme d'information et
+La séparation des données et des traitements permet de séparer les données du systeme d'information et les traitements effectues sur ces données.
 
-les traitements effectues sur ces données.
-
-Cette demarche se fait en 3 étapes :
+Cette démarche se fait en 3 étapes :
 
 - L'analyse des flux : on analyse les flux d'informations etre les acteurs du systeme d'information et les acteurs du systeme operant
 
 - L'étude des documents interne (factures, bon de livraison,...)
 
-  
+- L'étude des documents externes (Fournisseurs, clients, ...)
 
+Les differents types d'informations:
 
-.... NOTES MANQUANTES A RECUP ... 
+- les infos de bases ou elementaires : ce sont les donnees de base du systeme d'information
+- les informations calculees : ce sont les donnees calculees a partir des donnees de base
+- les traitements ou les fonctions : ce sont les traitements effectues sur les donnees de base pour obtenir les donnees calculees
+
+En résumé : vous devrez identifier les données et les traitements effectués sur ces données.
 
 
 
@@ -522,3 +525,36 @@ Quelques règles à respecter :
 - Un flux ne peut pas être bidirectionnel
 - Un flux ne doit pas être réflexif
 - On ne représente pas les flux entre les acteurs externes
+
+
+## UML
+
+ULK : Unified Modeling Language (Langage de modélisation unifié) est un langage de modélisation de données. UML a été normalisé en 1997 par l'OMG (Object Management Group). Son but est de mettre en forme les concepts orientés objets au travers de diagramme.
+
+UML propose 13 diagrammes dépendants de façon hierarchique et se complétant . 
+
+1. Les diagrammes statiques : ils permettent de modéliser la structure d'un système
+- Diagramme d'objets 
+- Diagramme de classe
+- Diagramme de composant 
+- Diagramme de déploiement
+- Diagramme de paquetage
+- Diagramme de structure composite
+
+2. Les diagrammes comportementaux
+- Diagramme des cas d'usage
+- Diagramme états-transitions
+- Diagramme d'activité
+
+
+3. Les diagrammes dynamiques
+- Diagramme de séquences
+- Diagramme de communication
+- Diagramme global d'interaction
+- Diagramme de temps
+
+### Analogie Merise / UML
+
+1. Cas du MCD et du diagramme des classes
+
+Le MCD et le diagramme de classes partagent beaucoup de points communs. Les différences majeures apparaissent dans le côté objet d’UML. Cependant, au niveau du processus d’analyse, le diagramme de classes se rapproche plus du modèle logique des données. Le langage UML pour représenter une base de données ne passe pas d’un état correspondant à un MCD à un MLD. Il faut donc à l’analyste une bonne approche ou vision de la base de données pour la représenter sans faille en langage UML. Le découpage MCD, MLD apporte plus de sécurité, à ce niveau-là, qu’UML.
