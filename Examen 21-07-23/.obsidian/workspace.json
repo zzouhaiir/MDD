@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bb44b1e2c9ef954",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a439c18dfc283702",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +149,8 @@
   "active": "a439c18dfc283702",
   "lastOpenFiles": [
     "MLD.png",
-    "MCD.png",
     "MPD.md",
+    "MCD.png",
     "MLD.drawio",
     "MCD.drawio",
     "DictionnaireDeDonnées.png"
