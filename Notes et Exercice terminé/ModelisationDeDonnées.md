@@ -108,9 +108,9 @@ Cette méthode se caracterise par trois points clés :
   
   
 
-Le systeme de pilotage :
+Le système de pilotage :
 
-- Il est compseé de l'ensemble des acteurs qui vont **piloter** le systeme d'information
+- Il est composé de l'ensemble des acteurs qui vont **piloter** le système d'information
 
   
 
@@ -135,7 +135,7 @@ La séparation des données et des traitements permet de séparer les données d
 
 Cette démarche se fait en 3 étapes :
 
-- L'analyse des flux : on analyse les flux d'informations etre les acteurs du systeme d'information et les acteurs du systeme operant
+- L'analyse des flux : on analyse les flux d'informations entre les acteurs du systeme d'information et les acteurs du systeme operant
 
 - L'étude des documents interne (factures, bon de livraison,...)
 
